@@ -1660,7 +1660,23 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.5v0cff67Osb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.5ntcplLZk5q" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Introduction&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The key to using Storyline is understanding its Building Blocks. So, just what do we mean by the Building&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Blocks of Storyline? We are talking about Slides, States, Layers, and Triggers." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5nRsuMdkEmX.5v0cff67Osb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1676,7 +1692,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.5c8anl8lGQy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.5c8anl8lGQy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1712,7 +1728,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.6jOIJeZB70C" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.6jOIJeZB70C" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1724,15 +1740,19 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="when creating interactivity and have automatic functions associated with them, such as: Hover, Selected,&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="when creating interactivity and have automatic functions associated with them, such as: &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Down, Visited, Disabled, Drag Over, Drop Correct, and Drop Incorrect." /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Hover, Selected, Down, Visited, Disabled, Drag Over, Drop Correct, and Drop Incorrect." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.6ceutTwtFkR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.6ceutTwtFkR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1756,7 +1776,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.6ZPh1te0UW9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.6ZPh1te0UW9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1796,15 +1816,19 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5nRsuMdkEmX.6FTLTHL214W" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5nRsuMdkEmX.6FTLTHL214W" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="The Building Blocks of Storyline allow you to create a more dynamic e-learning experience. Whether it’s&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="The Building Blocks of Storyline allow you to create a more dynamic e-learning experience. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="using a single slide to relay visually stunning content or harnessing the functionality of slides, states, and&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Whether it’s using a single slide to relay visually stunning content or harnessing the functionality of slides, states, and&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1812,7 +1836,33 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5yfOIwiUqYQ.63TNZ71HuAB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5yfOIwiUqYQ.68qvSRfJPCl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Knowledge Check "&gt;
+        &lt;Style FontSize="12" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5yfOIwiUqYQ.63TNZ71HuAB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Knowledge Check Introduction&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Let’s take a look at what you’ve learned so far. You will receive a series of 2 questions. You must answer&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="at least one correct in order to pass. Select Next when you’re ready to access the Knowledge Check." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5yfOIwiUqYQ.6Jpx7wt0WUy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1840,7 +1890,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5yfOIwiUqYQ.6Jpx7wt0WUy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+      <slidetranscript slideid="5yfOIwiUqYQ.5hRRA5oqNWx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1873,6 +1923,14 @@
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="Variables" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5yfOIwiUqYQ.5slOOuigB3a" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Quiz Results" /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
