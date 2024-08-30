@@ -2,53 +2,44 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "69w9ioGascL":
+      case "67AJF8iPDhY":
         Script1();
         break;
-      case "6JJ9SMgwwLw":
+      case "5vFKEucK11e":
         Script2();
         break;
-      case "6XAFtg6CTTf":
+      case "5x95nFk6z0U":
         Script3();
         break;
-      case "6Qe642ofuwL":
+      case "64eiX31xuWu":
         Script4();
         break;
-      case "6WecNswtcBr":
+      case "63CvEtoxQkz":
         Script5();
         break;
-      case "5t79cUDsMXP":
+      case "6RMlC7UgHTn":
         Script6();
         break;
-      case "6LXN8dn0W9j":
+      case "5tMj6qZWNIe":
         Script7();
         break;
-      case "6DpaaG4Wu7S":
+      case "6bMGVhjPX4y":
         Script8();
         break;
-      case "5yzNHf51s7b":
+      case "6BaBlhsk3V2":
         Script9();
         break;
-      case "6EorkTx3ftQ":
+      case "6I2Iu4yTEJ7":
         Script10();
         break;
-      case "5aHnPzW7uQi":
+      case "61LfMdn2X4i":
         Script11();
         break;
-      case "5p0Y4Npu6JV":
+      case "6aoh63yLsko":
         Script12();
         break;
-      case "6pEj40EuH5S":
+      case "5bgf5n4ycTm":
         Script13();
-        break;
-      case "5oeg9qP2lKH":
-        Script14();
-        break;
-      case "6KzUtlaOF6o":
-        Script15();
-        break;
-      case "5bDnJTt3ptJ":
-        Script16();
         break;
   }
 }
@@ -320,70 +311,7 @@ const duration = 750;
 const easing = 'ease-out';
 const id = '6hUNGky0Zew';
 const pulseAmount = 0.07;
-const delay = 8271;
-addToTimeline(
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', delay, duration, easing }
-), id
-);
-});
-}
-
-window.Script14 = function()
-{
-  player.once(() => {
-const target = object('6jDokkPKYRi');
-const duration = 750;
-const easing = 'ease-out';
-const id = '6hUNGky0Zew';
-const pulseAmount = 0.07;
-const delay = 5021;
-addToTimeline(
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', delay, duration, easing }
-), id
-);
-});
-}
-
-window.Script15 = function()
-{
-  player.once(() => {
-const target = object('6jDokkPKYRi');
-const duration = 750;
-const easing = 'ease-out';
-const id = '6hUNGky0Zew';
-const pulseAmount = 0.07;
-const delay = 6229;
-addToTimeline(
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', delay, duration, easing }
-), id
-);
-});
-}
-
-window.Script16 = function()
-{
-  player.once(() => {
-const target = object('6jDokkPKYRi');
-const duration = 750;
-const easing = 'ease-out';
-const id = '6hUNGky0Zew';
-const pulseAmount = 0.07;
-const delay = 7292;
+const delay = 6458;
 addToTimeline(
 target.animate([
 { scale: '1' }, { scale: `${1 + pulseAmount}` },
